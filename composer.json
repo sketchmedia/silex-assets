@@ -1,5 +1,5 @@
 {
-    "name": "99designs/silex-assets",
+    "name": "sketchmedia/silex-assets",
     "description": "Asset pipeline using make",
     "keywords": ["asset","pipeline"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         "php" : ">=5.3.3"
     },
     "require-dev": {
-        "silex/silex": "~1.1",
+        "silex/silex": "~2.0@dev",
         "twig/twig": "~1.2",
         "phpunit/phpunit": "~3.7.0"
     },
